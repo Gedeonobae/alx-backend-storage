@@ -2,7 +2,7 @@
 
 ## Resources
 * <a href = "https://devhints.io/mysql" > MySQL cheatsheet </a> <br>
-* <a href = "ihttps://www.liquidweb.com/kb/mysql-optimization-how-to-leverage-mysql-database-indexing/"> MySQL Performance: How To Leverage MySQL Database Indexing </a> <br>
+* <a href = "https://www.liquidweb.com/kb/mysql-optimization-how-to-leverage-mysql-database-indexing/"> MySQL Performance: How To Leverage MySQL Database Indexing </a> <br>
 * <a href = "https://www.w3resource.com/mysql/mysql-procedure.php"> Stored Procedure </a> <br>
 * <a href = "https://www.w3resource.com/mysql/mysql-triggers.php"> Triggers </a> <br>
 * <a href = "https://www.w3resource.com/mysql/mysql-views.php"> Views </a> <br>
