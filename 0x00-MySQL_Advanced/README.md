@@ -9,8 +9,7 @@
 * <a href ="https://dev.mysql.com/doc/refman/5.7/en/functions.html"> Functions and Operators </a> <br>
 * <a href = "https://dev.mysql.com/doc/refman/5.7/en/trigger-syntax.html"> Trigger Syntax and Examples </a> <br>
 * <a href ="https://dev.mysql.com/doc/refman/5.7/en/create-table.html"> CREATE TABLE Statement </a> <br>
-* <a href ="https://dev.mysql.com/doc/refman/5.7/en/create-procedure.html"> 
-CREATE PROCEDURE and CREATE FUNCTION Statements </a> <br>
+* <a href ="https://dev.mysql.com/doc/refman/5.7/en/create-procedure.html"> CREATE PROCEDURE and CREATE FUNCTION Statements </a> <br>
 * <a href = "https://dev.mysql.com/doc/refman/5.7/en/create-index.html"> CREATE INDEX Statement </a> <br>
 * <a href = "https://dev.mysql.com/doc/refman/5.7/en/create-view.html"> CREATE VIEW Statement </a> <br>
 
